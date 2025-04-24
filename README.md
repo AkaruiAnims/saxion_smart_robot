@@ -1,5 +1,5 @@
 # saxion_smart_robot
-Project for 2025 
+School project for 2025 
 
 # RULES OF THE GAME
 
